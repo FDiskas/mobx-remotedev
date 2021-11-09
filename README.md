@@ -25,7 +25,7 @@ Remote debugging for MobX with [Redux DevTools extension](https://github.com/zal
 
 ##### 1.4 For other browsers, for React Native, hybrid, desktop and server side apps
 
-- Use [remotedev.io](http://remotedev.io/local/) or if you have the extension select `Remote DevTools` from the context menu. Just specify `remote` parameter, and optionally `hostname` and `port`. [See the API](https://github.com/zalmoxisus/mobx-remotedev#remotedevstore-config) for details.
+- [See the API](https://github.com/zalmoxisus/mobx-remotedev#remotedevstore-config) for details.
 
 #### 2. Install the library
 
